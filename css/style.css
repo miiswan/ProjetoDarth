@@ -1,6 +1,8 @@
 .container{
     border: 1px solid red;
+    background-color: black;
     width: 900px;
+    
 }
 
 .nav{
@@ -8,6 +10,17 @@
 }
  .nav-item{
      color: #fff;
+     padding: .8rem;
      font-weight: bold;
      text-decoration: none;
- }
+ 
+    }
+    main{
+        color: white;
+    }
+    
+    footer{
+      color: white;
+      text-align: center;
+    }
+    
